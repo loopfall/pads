@@ -1,0 +1,4 @@
+{
+  "_base": "https://raw.githubusercontent.com/loopfall/pads/main/",
+  "pads": ["pad1.wav","pad2.wav","pad3.wav","pad4.wav","pad5.wav"]
+}
