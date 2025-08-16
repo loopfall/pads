@@ -1,5 +1,5 @@
 # pads
-5 16bar chord pad samples created with digital VST synths layered with recorded tape hiss and processed together in 175bpm.
+5 x 16bar chord pad samples created with digital VST synths layered with recorded tape hiss and processed together in 175bpm.
 
 Usage
 
